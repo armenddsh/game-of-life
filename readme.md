@@ -2,6 +2,7 @@
 
 Build just for fun in python
 
-!
+
 ![alt](resources/Screenshot%20from%202025-02-26%2019-17-38.png)
-(https://github.com/armenddsh/game-of-life/raw/2b9a5e7db942eebf61d1baf9581cd7bf9b1b04cb/resources/Screencast%20from%202025-02-26%2019-20-12.webm)
+
+![video](https://github.com/armenddsh/game-of-life/blob/a464175e3311af95790b2127dd66752a6d298269/resources/Screencast%20from%202025-02-26%2019-20-12.mp4)
