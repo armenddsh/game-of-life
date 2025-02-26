@@ -14,7 +14,7 @@ pygame.init()
 
 width = 700
 height = 400
-distance = 30
+distance = 5
 is_closed = False
 probability = 0.5
 refresh = 500 # ms
